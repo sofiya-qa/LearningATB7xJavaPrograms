@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be67fb4f-daee-460a-9ed7-e06b021d632c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" afterDir="false" />
+    <list default="true" id="be67fb4f-daee-460a-9ed7-e06b021d632c" name="Changes" comment="All files are added">
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab004.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +84,28 @@
       <option name="presentableId" value="Default" />
       <updated>1720461887389</updated>
     </task>
+    <task id="LOCAL-00001" summary="All files are added">
+      <option name="closed" value="true" />
+      <created>1720524067935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720524067935</updated>
+    </task>
+    <task id="LOCAL-00002" summary="All files are added">
+      <option name="closed" value="true" />
+      <created>1720524179526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720524179526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="All files are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All files are added" />
   </component>
 </project>
