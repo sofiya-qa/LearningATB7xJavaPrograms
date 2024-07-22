@@ -1,6 +1,6 @@
 # Java Programs
 
-Author - Sofiya
+Author - Sofiya Ansari
 
 This Repo contains the source code for the Exercise that we have done in the ATB7x batch
 - Core Java 

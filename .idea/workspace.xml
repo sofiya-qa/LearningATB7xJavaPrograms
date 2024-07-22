@@ -4,62 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be67fb4f-daee-460a-9ed7-e06b021d632c" name="Changes" comment="14 july 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab061.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab062.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab063.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab064.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab065.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab066.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab067.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab068.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab069.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab070.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab071.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab072.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab073.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab074.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab075.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab076.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab077.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab078.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab079.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab080.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab081.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab082.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab083_TriangleClassifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab084_FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab085_LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab086.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab087.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab088.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab089.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab090.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab091.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab092.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab093.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab094.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab095.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab096.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab097.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab098.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab099.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab109_Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab112_Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab114.java" afterDir="false" />
+    <list default="true" id="be67fb4f-daee-460a-9ed7-e06b021d632c" name="Changes" comment="20th &amp; 21st July lab exercises added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -351,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721069073144</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="20th &amp; 21st July lab exercises added">
+      <option name="closed" value="true" />
+      <created>1721658026543</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721658026543</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -359,6 +314,7 @@
     <MESSAGE value="README.md file updated" />
     <MESSAGE value="All files are added" />
     <MESSAGE value="14 july 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="14 july 2024" />
+    <MESSAGE value="20th &amp; 21st July lab exercises added" />
+    <option name="LAST_COMMIT_MESSAGE" value="20th &amp; 21st July lab exercises added" />
   </component>
 </project>
