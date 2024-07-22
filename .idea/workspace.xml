@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be67fb4f-daee-460a-9ed7-e06b021d632c" name="Changes" comment="20th &amp; 21st July lab exercises added">
+    <list default="true" id="be67fb4f-daee-460a-9ed7-e06b021d632c" name="Changes" comment="updated README.md file">
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab115_Star_Pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,6 +151,7 @@
     "Application.Lab111.executor": "Run",
     "Application.Lab113.executor": "Run",
     "Application.Lab114.executor": "Run",
+    "Application.Lab115_Star_Pattern.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -165,20 +166,7 @@
       <recent name="ex_13072024" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Lab006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab006" />
-      <module name="LearningATB7xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab115_Star_Pattern">
     <configuration name="Lab064" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab064" />
       <module name="LearningATB7xJavaPrograms" />
@@ -231,13 +219,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab115_Star_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab115_Star_Pattern" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_21072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab115_Star_Pattern" />
         <item itemvalue="Application.Lab109_Factorial" />
         <item itemvalue="Application.Lab066" />
         <item itemvalue="Application.Lab064" />
         <item itemvalue="Application.Lab067" />
-        <item itemvalue="Application.Lab006" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +307,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721658026543</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="updated README.md file">
+      <option name="closed" value="true" />
+      <created>1721658255002</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721658255002</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -315,6 +324,33 @@
     <MESSAGE value="All files are added" />
     <MESSAGE value="14 july 2024" />
     <MESSAGE value="20th &amp; 21st July lab exercises added" />
-    <option name="LAST_COMMIT_MESSAGE" value="20th &amp; 21st July lab exercises added" />
+    <MESSAGE value="updated README.md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated README.md file" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_21072024/Lab115_Star_Pattern.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_21072024/Lab115_Star_Pattern.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_21072024/Lab115_Star_Pattern.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_21072024/Lab115_Star_Pattern.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
