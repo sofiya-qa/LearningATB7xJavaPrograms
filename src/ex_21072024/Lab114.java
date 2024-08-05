@@ -11,6 +11,7 @@ public class Lab114 {
         // 2. Call the function
 
         // Types of Functions
+        // -> 4 important types of the functions based on the Parameter, Return (Parameters = Arguments)
         // 1. Without Parameters and without return type
         // 2. Without Parameters but with return type
         // 3. With Parameters and without return type

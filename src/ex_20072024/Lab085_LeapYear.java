@@ -7,6 +7,7 @@ public class Lab085_LeapYear {
         // but not by 100 unless it is also divisible by 400.
         // Use an if-else statement to make this determination.
 
+        // 1. Get clarity on the inputs - year -> int 2024
         int year = 2020;
 
         boolean isLeapYear = false;
