@@ -6,7 +6,7 @@ public class Lab156 {
 
     public static void main(String[] args) {
         Child c = new Child();
-        c.money();
+        //c.home();
 
     }
 }
