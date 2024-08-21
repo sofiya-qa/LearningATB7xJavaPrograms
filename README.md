@@ -115,6 +115,8 @@ Wrapper -> they have extra functions or utilities
    - Error -> Stackoverflow
 ![image](https://github.com/user-attachments/assets/0f591505-5041-48b4-afd3-05f5fedab3d5)
 
+![image](https://github.com/user-attachments/assets/2dbb7375-18f3-40d6-96b7-e029c33b00e8)
+
 
 ## How to handle the exceptions?
 
@@ -137,5 +139,6 @@ Wrapper -> they have extra functions or utilities
 2. Try and Catch : handles only the vulnerable code. (Works with Block of Code)
 3. Throws : Works with Methods
 
-![image](https://github.com/user-attachments/assets/2fccc0d9-5eba-45dd-915f-e32cebd1d44d)
+![image](https://github.com/user-attachments/assets/6fe8161c-554e-4b4f-9d77-2b525aedd7b9)
+
 
