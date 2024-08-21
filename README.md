@@ -107,6 +107,7 @@ Wrapper -> they have extra functions or utilities
       - Runtime or Unchecked : Null Pinter, Arithmetic Exception
       - Compile Time or Checked : IOException, SQLException
    - Error -> Stackoverflow
+![image](https://github.com/user-attachments/assets/0f591505-5041-48b4-afd3-05f5fedab3d5)
 
 
 ## How to handle the exceptions?
