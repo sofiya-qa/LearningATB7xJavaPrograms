@@ -76,6 +76,12 @@ This Repo contains the source code for the Exercise that we have done in the ATB
 2. Object can't create
 3. Can't be final
 
+![image](https://github.com/user-attachments/assets/cd5e7b4a-9ec6-4eba-b127-23365376d2c6)
+
+![image](https://github.com/user-attachments/assets/a0f46530-d001-4a7e-902d-a0fd732f5aa0)
+
+![image](https://github.com/user-attachments/assets/952e0528-5e57-4c56-99b4-0b09fe4a897a)
+
 
 ### **Wrapper Classes**
 - A Wrapper class is a class whose object wraps or contains primitive data types.
@@ -107,6 +113,9 @@ Wrapper -> they have extra functions or utilities
       - Runtime or Unchecked : Null Pinter, Arithmetic Exception
       - Compile Time or Checked : IOException, SQLException
    - Error -> Stackoverflow
+![image](https://github.com/user-attachments/assets/0f591505-5041-48b4-afd3-05f5fedab3d5)
+
+![image](https://github.com/user-attachments/assets/2dbb7375-18f3-40d6-96b7-e029c33b00e8)
 
 
 ## How to handle the exceptions?
@@ -128,4 +137,8 @@ Wrapper -> they have extra functions or utilities
 
 1. Both of them are used to handle the exception.
 2. Try and Catch : handles only the vulnerable code. (Works with Block of Code)
-3. Throws : Works with Methods 
+3. Throws : Works with Methods
+
+![image](https://github.com/user-attachments/assets/6fe8161c-554e-4b4f-9d77-2b525aedd7b9)
+
+
